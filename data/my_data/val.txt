@@ -1,127 +1,124 @@
-3 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1100.png 800 600 0 331 380 729 600 0 662 315 800 449
-4 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1470.png 800 600 0 294 315 478 425 0 388 355 568 568
-28 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1659.png 800 600 0 317 105 466 317 0 384 290 601 510
-37 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1467.png 800 600 0 342 313 542 457 0 389 354 570 566
-44 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1512.png 800 600 0 89 315 324 524
-48 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1502.png 800 600 0 28 318 126 395 0 276 327 333 368
-61 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1503.png 800 600 0 29 316 128 400
-62 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1271.png 800 600 0 356 318 607 455
-76 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1676.png 800 600 0 284 80 453 306 0 357 294 593 512
-92 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1361.png 800 600 0 498 335 799 600 0 343 327 574 599
-121 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1175.png 800 600 0 699 321 800 515
-130 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1561.png 800 600 0 610 348 799 600 0 232 354 645 600
-148 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1238.png 800 600 0 713 212 800 447
-154 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1199.png 800 600 0 714 319 800 466
-162 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1832.png 800 600 0 366 1 507 163 0 159 0 375 392
-168 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1371.png 800 600 0 474 347 792 600 0 332 347 511 600
-169 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1402.png 800 600 0 362 231 465 470 0 392 326 634 558
-170 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1013.png 800 600 15 191 0 380 206 15 789 381 800 450
-172 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1761.png 800 600 0 119 1 614 250 0 256 234 555 516
-199 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1221.png 800 600 0 707 305 799 453
-201 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1590.png 800 600 0 707 324 799 600 0 257 392 727 600
-214 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1196.png 800 600 0 724 321 800 467
-229 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1550.png 800 600 0 541 343 800 592 0 173 341 562 594
-234 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1752.png 800 600 0 120 0 503 254 0 250 255 557 513
-239 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1232.png 800 600 0 722 221 800 453
-240 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1540.png 800 600 0 502 353 797 600 0 89 319 439 523
-251 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1636.png 800 600 0 344 92 457 297 0 450 348 628 519
-274 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1796.png 800 600 0 349 302 582 528 0 420 1 651 142
-281 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1378.png 800 600 0 452 366 778 600 0 307 315 481 554
-317 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1040.png 800 600 15 217 1 430 118
-326 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1136.png 800 600 0 466 354 761 599 0 695 315 800 450
-337 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1645.png 800 600 0 332 117 468 323 0 431 326 620 504
-338 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1679.png 800 600 0 263 54 444 294 0 346 285 596 510
-342 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1245.png 800 600 0 694 190 800 445
-346 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1269.png 800 600 0 373 317 638 462
-356 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1325.png 800 600 0 463 345 772 569 0 771 443 800 513
-365 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1720.png 800 600 0 117 0 386 254 0 325 297 571 509
-390 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img1131.png 800 600 0 472 363 755 600 0 669 321 800 429
-398 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0566.png 800 600 0 1 364 83 439 0 331 324 493 428
-402 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0764.png 800 600 0 1 364 82 451 0 361 115 474 310 0 689 315 800 440
-406 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0349.png 800 600 0 1 359 95 432
-431 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0370.png 800 600 0 1 358 77 415
-441 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0574.png 800 600 0 1 366 93 443 0 334 278 516 447
-453 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0561.png 800 600 0 1 363 79 446 0 328 332 497 432
-458 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0476.png 800 600 0 292 315 376 392
-461 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0884.png 800 600 0 237 409 294 481 0 278 339 361 383
-463 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0112.png 800 600 0 20 383 176 597 0 340 186 426 347
-465 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0072.png 800 600 0 8 375 190 587 0 331 201 439 353
-485 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0461.png 800 600 0 283 362 353 384
-491 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0844.png 800 600 0 300 344 413 381 0 249 416 302 489
-505 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0064.png 800 600 0 15 361 237 562 0 327 208 431 349
-516 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0712.png 800 600 0 283 261 429 380
-523 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0538.png 800 600 0 283 279 469 401
-525 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0673.png 800 600 0 309 341 393 381
-530 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0467.png 800 600 0 286 346 353 382
-533 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0671.png 800 600 0 318 341 391 387
-553 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0415.png 800 600 0 326 175 443 301 0 405 346 500 415
-561 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0561.png 800 600 0 291 287 485 399
-572 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0402.png 800 600 0 381 168 504 308 0 433 358 541 448
-583 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0749.png 800 600 0 334 218 458 372
-622 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0821.png 800 600 0 252 405 298 482 0 309 342 414 375
-638 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0377.png 800 600 0 427 207 532 347 0 447 349 547 460
-650 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0569.png 800 600 0 316 288 494 425
-655 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0437.png 800 600 0 257 221 430 330 0 353 342 473 402
-658 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0151.png 800 600 0 40 390 235 600 0 336 193 430 346
-669 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0755.png 800 600 0 337 228 449 386 0 253 413 294 483
-676 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0230.png 800 600 0 426 171 516 332 0 475 368 614 546
-686 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0344.png 800 600 0 362 168 503 308 0 438 350 544 456
-690 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0422.png 800 600 0 306 168 432 320 0 397 348 483 413
-710 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0802.png 800 600 0 247 408 294 479
-711 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0751.png 800 600 0 339 215 460 369
-717 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0143.png 800 600 0 30 389 229 600 0 339 194 432 348
-720 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0551.png 800 600 0 296 290 471 399
-721 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0196.png 800 600 0 278 390 663 599 0 423 168 529 314
-734 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0197.png 800 600 0 292 396 671 600 0 429 160 523 316
-735 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0829.png 800 600 0 242 412 289 475 0 309 343 412 376
-740 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0154.png 800 600 0 37 395 241 600 0 343 200 434 342
-750 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0872.png 800 600 0 244 412 289 475 0 275 341 359 384
-756 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0293.png 800 600 0 334 173 410 312 0 449 356 541 447
-758 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0720.png 800 600 0 303 261 431 383
-763 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0898.png 800 600 0 266 343 356 382 0 259 416 290 477
-768 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0520.png 800 600 0 283 141 422 395
-774 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0086.png 800 600 0 3 383 181 600 0 343 193 433 352
-784 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0327.png 800 600 0 336 174 423 320 0 452 354 525 467
-803 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0120.png 800 600 0 34 384 225 599 0 335 191 433 348
-806 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0040.png 800 600 0 75 372 242 524 0 335 168 419 335
-813 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0336.png 800 600 0 347 174 458 332 0 443 348 525 455
-819 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0888.png 800 600 0 249 410 294 477 0 269 341 356 384
-825 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0724.png 800 600 0 321 241 423 382 0 252 411 296 482
-832 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/rearview_img0283.png 800 600 0 333 170 425 318 0 445 356 569 462
-885 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/img0256.png 800 600 0 27 322 168 448 0 208 307 436 562
-888 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/img0250.png 800 600 0 24 323 154 435 0 149 357 448 572
-889 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/img0255.png 800 600 0 28 318 180 447 0 191 328 439 568
-898 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0395.png 800 600 0 1 357 73 428 0 129 331 182 394
-912 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0747.png 800 600 0 1 359 81 456 0 365 195 476 443 0 681 314 794 459
-940 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0354.png 800 600 0 1 360 89 429
-957 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0740.png 800 600 0 1 349 86 460 0 362 195 486 435 0 679 318 800 459
-960 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0580.png 800 600 0 1 357 77 434 0 365 234 501 455 0 273 326 398 402
-965 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0635.png 800 600 0 1 358 79 463 0 352 211 478 427 0 533 332 792 576
-969 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0384.png 800 600 0 1 354 84 428
-976 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0582.png 800 600 0 291 330 407 413 0 362 236 523 459 0 1 371 83 426
-983 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0568.png 800 600 0 1 368 85 444 0 323 323 502 434
-1000 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0269.png 800 600 0 1 356 100 438 0 655 330 799 599
-1006 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0334.png 800 600 0 1 354 87 437 0 262 0 386 41
-1012 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0644.png 800 600 0 1 351 85 443 0 352 207 486 440 0 526 326 786 567
-1017 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0281.png 800 600 0 462 306 799 599 0 1 352 95 424
-1018 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0518.png 800 600 0 1 358 74 442 0 98 310 181 400 0 361 28 597 229
-1036 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0455.png 800 600 0 63 317 173 390 0 1 365 74 423
-1046 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0045.png 800 600 0 580 299 784 474 0 754 347 800 501
-1048 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0291.png 800 600 0 242 204 668 600 0 1 351 95 431
-1049 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0440.png 800 600 0 1 359 79 435 0 114 321 175 395
-1050 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0508.png 800 600 0 1 354 78 425 0 90 311 168 399 0 360 29 608 189
-1062 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0244.png 800 600 0 256 359 688 600
-1078 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0279.png 800 600 0 1 356 94 438 0 586 261 799 600
-1099 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0667.png 800 600 0 502 335 789 576 0 365 224 486 444 0 1 362 85 450
-1110 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0712.png 800 600 0 1 360 77 443 0 365 209 484 438 0 599 332 800 531
-1118 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0538.png 800 600 0 1 360 81 437 0 100 324 176 405 0 455 339 635 477
-1121 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0510.png 800 600 0 1 354 73 420 0 86 307 182 397 0 363 33 608 192
-1125 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0689.png 800 600 0 1 356 84 453 0 368 209 481 423 0 507 368 800 591
-1129 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0110.png 800 600 0 1 321 176 477
-1134 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0267.png 800 600 0 1 357 97 449 0 609 330 800 596
-1138 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0717.png 800 600 0 1 364 79 454 0 359 184 484 436 0 636 335 800 522
-1141 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0307.png 800 600 0 121 0 374 293 0 1 354 103 443
-1151 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0688.png 800 600 0 1 360 75 452 0 369 204 482 434 0 505 361 800 592
-1156 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0271.png 800 600 0 1 350 92 435 0 670 332 798 600
-1160 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0462.png 800 600 0 2 360 82 446 0 84 311 168 393 0 629 7 799 118
-1176 /content/drive/Shared drives/RD Deep Learning/YOLO/darknet/data/labels/sideview_img0820.png 800 600 0 2 352 75 463 0 349 73 462 271 0 679 242 793 468
+2 /content/yolo_files/darknet/data/labels/sideview_img1666.png 800 600 0 294 75 449 297 0 371 285 595 497
+9 /content/yolo_files/darknet/data/labels/sideview_img1276.png 800 600 0 360 292 563 460
+25 /content/yolo_files/darknet/data/labels/sideview_img1261.png 800 600 0 689 234 800 443
+32 /content/yolo_files/darknet/data/labels/sideview_img1116.png 800 600 0 447 359 750 600 0 662 313 800 451
+34 /content/yolo_files/darknet/data/labels/sideview_img1704.png 800 600 0 147 0 385 284 0 329 284 595 513
+37 /content/yolo_files/darknet/data/labels/sideview_img1467.png 800 600 0 342 313 542 457 0 389 354 570 566
+96 /content/yolo_files/darknet/data/labels/sideview_img1771.png 800 600 0 328 241 563 517 0 403 0 720 218
+99 /content/yolo_files/darknet/data/labels/sideview_img1406.png 800 600 0 368 197 465 465 0 376 327 630 578
+100 /content/yolo_files/darknet/data/labels/sideview_img1162.png 800 600 0 632 329 800 546
+103 /content/yolo_files/darknet/data/labels/sideview_img1770.png 800 600 0 317 247 560 520 0 374 0 688 224
+107 /content/yolo_files/darknet/data/labels/sideview_img1612.png 800 600 0 382 279 543 453 0 493 354 663 564
+111 /content/yolo_files/darknet/data/labels/sideview_img1772.png 800 600 0 351 236 560 516 0 437 0 720 200
+114 /content/yolo_files/darknet/data/labels/sideview_img1376.png 800 600 0 484 356 770 600 0 321 332 495 600
+128 /content/yolo_files/darknet/data/labels/sideview_img1575.png 800 600 0 656 347 800 600 0 257 375 689 600
+130 /content/yolo_files/darknet/data/labels/sideview_img1561.png 800 600 0 610 348 799 600 0 232 354 645 600
+131 /content/yolo_files/darknet/data/labels/sideview_img1777.png 800 600 0 405 211 566 526 0 459 1 720 184
+143 /content/yolo_files/darknet/data/labels/sideview_img1819.png 800 600 0 180 210 492 534 0 310 0 603 164
+153 /content/yolo_files/darknet/data/labels/sideview_img1789.png 800 600 0 452 0 725 212 0 442 143 629 516
+184 /content/yolo_files/darknet/data/labels/sideview_img1397.png 800 600 0 356 272 471 483 0 426 316 650 568
+187 /content/yolo_files/darknet/data/labels/sideview_img1396.png 800 600 0 353 275 470 483 0 431 320 651 564
+198 /content/yolo_files/darknet/data/labels/sideview_img1786.png 800 600 0 443 150 587 521 0 482 1 740 187
+202 /content/yolo_files/darknet/data/labels/sideview_img1592.png 800 600 0 278 396 750 600 0 676 309 800 461
+205 /content/yolo_files/darknet/data/labels/sideview_img1747.png 800 600 0 121 0 499 254 0 253 254 556 513
+208 /content/yolo_files/darknet/data/labels/sideview_img1009.png 800 600 15 207 0 389 209 15 778 390 800 506
+213 /content/yolo_files/darknet/data/labels/sideview_img1182.png 800 600 0 690 321 800 492
+218 /content/yolo_files/darknet/data/labels/sideview_img1155.png 800 600 0 604 335 792 549
+223 /content/yolo_files/darknet/data/labels/sideview_img1356.png 800 600 0 413 333 684 599
+225 /content/yolo_files/darknet/data/labels/sideview_img1395.png 800 600 0 349 283 468 481 0 427 321 658 575
+226 /content/yolo_files/darknet/data/labels/sideview_img1626.png 800 600 0 367 250 527 445 0 497 339 642 516
+255 /content/yolo_files/darknet/data/labels/sideview_img1390.png 800 600 0 320 320 473 528 0 409 333 701 599
+275 /content/yolo_files/darknet/data/labels/sideview_img1219.png 800 600 0 700 306 800 449
+278 /content/yolo_files/darknet/data/labels/sideview_img1351.png 800 600 0 478 351 800 600 0 737 303 800 464
+292 /content/yolo_files/darknet/data/labels/sideview_img1525.png 800 600 0 285 348 637 600 0 107 336 216 476
+296 /content/yolo_files/darknet/data/labels/sideview_img1595.png 800 600 0 623 312 770 503 0 315 389 742 600
+309 /content/yolo_files/darknet/data/labels/sideview_img1478.png 800 600 0 363 347 526 528
+318 /content/yolo_files/darknet/data/labels/sideview_img1256.png 800 600 0 657 166 800 442
+326 /content/yolo_files/darknet/data/labels/sideview_img1136.png 800 600 0 466 354 761 599 0 695 315 800 450
+328 /content/yolo_files/darknet/data/labels/sideview_img1447.png 800 600 0 350 115 455 460 0 376 342 566 569
+336 /content/yolo_files/darknet/data/labels/sideview_img1123.png 800 600 0 466 357 767 600 0 691 321 789 437
+349 /content/yolo_files/darknet/data/labels/sideview_img1084.png 800 600 0 208 1 527 229 0 653 321 800 455
+350 /content/yolo_files/darknet/data/labels/sideview_img1735.png 800 600 0 119 0 390 254 0 307 293 571 516
+359 /content/yolo_files/darknet/data/labels/sideview_img1126.png 800 600 0 471 357 764 600 0 677 308 793 435
+386 /content/yolo_files/darknet/data/labels/sideview_img1079.png 800 600 0 124 0 521 119 0 680 316 800 454
+387 /content/yolo_files/darknet/data/labels/sideview_img1051.png 800 600 0 274 1 435 13
+396 /content/yolo_files/darknet/data/labels/sideview_img1509.png 800 600 0 62 317 190 462
+404 /content/yolo_files/darknet/data/labels/sideview_img0759.png 800 600 0 1 364 91 451 0 358 108 466 395 0 687 309 799 458
+418 /content/yolo_files/darknet/data/labels/sideview_img0013.png 800 600 0 389 319 673 511 0 637 192 770 434
+429 /content/yolo_files/darknet/data/labels/sideview_img0825.png 800 600 0 1 355 81 454 0 348 75 467 266 0 694 279 796 464
+431 /content/yolo_files/darknet/data/labels/sideview_img0370.png 800 600 0 1 358 77 415
+450 /content/yolo_files/darknet/data/labels/sideview_img0763.png 800 600 0 1 359 79 450 0 359 113 474 312 0 681 318 800 452
+458 /content/yolo_files/darknet/data/labels/rearview_img0476.png 800 600 0 292 315 376 392
+489 /content/yolo_files/darknet/data/labels/rearview_img0139.png 800 600 0 40 387 239 599 0 322 189 438 341
+492 /content/yolo_files/darknet/data/labels/rearview_img0298.png 800 600 0 337 171 423 317 0 448 360 532 452
+507 /content/yolo_files/darknet/data/labels/rearview_img0110.png 800 600 0 13 383 172 591 0 337 189 426 348
+518 /content/yolo_files/darknet/data/labels/rearview_img0288.png 800 600 0 333 169 415 316 0 450 356 559 456
+527 /content/yolo_files/darknet/data/labels/rearview_img0465.png 800 600 0 282 346 354 382
+547 /content/yolo_files/darknet/data/labels/rearview_img0704.png 800 600 0 307 137 389 378
+548 /content/yolo_files/darknet/data/labels/rearview_img0102.png 800 600 0 4 385 177 595 0 337 191 424 345
+551 /content/yolo_files/darknet/data/labels/rearview_img0076.png 800 600 0 3 386 197 591 0 334 189 435 362
+552 /content/yolo_files/darknet/data/labels/rearview_img0429.png 800 600 0 290 189 429 327 0 368 334 464 391
+559 /content/yolo_files/darknet/data/labels/rearview_img0788.png 800 600 0 249 408 293 482 0 309 342 383 383
+562 /content/yolo_files/darknet/data/labels/rearview_img0776.png 800 600 0 253 409 301 490 0 363 341 418 375
+566 /content/yolo_files/darknet/data/labels/rearview_img0616.png 800 600 0 446 368 501 429
+572 /content/yolo_files/darknet/data/labels/rearview_img0402.png 800 600 0 381 168 504 308 0 433 358 541 448
+576 /content/yolo_files/darknet/data/labels/rearview_img0588.png 800 600 0 442 351 546 461
+580 /content/yolo_files/darknet/data/labels/rearview_img0615.png 800 600 0 444 371 511 441
+582 /content/yolo_files/darknet/data/labels/rearview_img0563.png 800 600 0 298 289 473 403
+583 /content/yolo_files/darknet/data/labels/rearview_img0749.png 800 600 0 334 218 458 372
+584 /content/yolo_files/darknet/data/labels/rearview_img0775.png 800 600 0 253 414 292 486 0 369 343 429 382
+588 /content/yolo_files/darknet/data/labels/rearview_img0417.png 800 600 0 308 158 422 309 0 390 340 484 421
+593 /content/yolo_files/darknet/data/labels/rearview_img0361.png 800 600 0 438 179 536 321 0 452 323 542 444
+610 /content/yolo_files/darknet/data/labels/rearview_img0604.png 800 600 0 441 347 525 441
+611 /content/yolo_files/darknet/data/labels/rearview_img0606.png 800 600 0 443 352 524 448
+634 /content/yolo_files/darknet/data/labels/rearview_img0178.png 800 600 0 78 404 436 600 0 405 171 523 314
+642 /content/yolo_files/darknet/data/labels/rearview_img0541.png 800 600 0 285 279 458 384
+653 /content/yolo_files/darknet/data/labels/rearview_img0031.png 800 600 0 102 369 245 515 0 339 172 431 328
+675 /content/yolo_files/darknet/data/labels/rearview_img0542.png 800 600 0 285 283 460 397
+684 /content/yolo_files/darknet/data/labels/rearview_img0608.png 800 600 0 439 353 530 453
+686 /content/yolo_files/darknet/data/labels/rearview_img0344.png 800 600 0 362 168 503 308 0 438 350 544 456
+692 /content/yolo_files/darknet/data/labels/rearview_img0378.png 800 600 0 435 206 540 330 0 446 349 539 457
+727 /content/yolo_files/darknet/data/labels/rearview_img0545.png 800 600 0 283 279 461 392
+728 /content/yolo_files/darknet/data/labels/rearview_img0009.png 800 600 0 91 355 243 511 0 335 167 422 321
+752 /content/yolo_files/darknet/data/labels/rearview_img0866.png 800 600 0 247 414 296 482 0 267 343 362 382
+766 /content/yolo_files/darknet/data/labels/rearview_img0481.png 800 600 0 275 298 371 397
+771 /content/yolo_files/darknet/data/labels/rearview_img0318.png 800 600 0 342 173 414 318 0 456 362 535 456
+776 /content/yolo_files/darknet/data/labels/rearview_img0736.png 800 600 0 329 235 420 382 0 252 408 293 482
+791 /content/yolo_files/darknet/data/labels/rearview_img0519.png 800 600 0 289 136 409 391
+792 /content/yolo_files/darknet/data/labels/rearview_img0109.png 800 600 0 7 384 170 587 0 335 194 427 348
+793 /content/yolo_files/darknet/data/labels/rearview_img0531.png 800 600 0 276 267 441 392
+801 /content/yolo_files/darknet/data/labels/rearview_img0280.png 800 600 0 333 170 423 315 0 448 361 557 457
+812 /content/yolo_files/darknet/data/labels/rearview_img0493.png 800 600 0 282 289 369 394
+840 /content/yolo_files/darknet/data/labels/rearview_img0731.png 800 600 0 334 231 417 387 0 248 408 305 479
+846 /content/yolo_files/darknet/data/labels/rearview_img0309.png 800 600 0 340 169 420 307 0 451 359 537 453
+854 /content/yolo_files/darknet/data/labels/img1444.png 800 600 0 122 341 542 546 0 659 315 800 464
+855 /content/yolo_files/darknet/data/labels/img0782.png 800 600 0 1 313 116 454 0 218 345 434 584
+871 /content/yolo_files/darknet/data/labels/img0768.png 800 600 0 3 318 99 456 0 217 345 425 584
+879 /content/yolo_files/darknet/data/labels/img0262.png 800 600 0 29 326 181 456 0 202 281 441 555
+901 /content/yolo_files/darknet/data/labels/sideview_img0222.png 800 600 0 28 328 203 451
+911 /content/yolo_files/darknet/data/labels/sideview_img0021.png 800 600 0 444 321 737 515 0 632 290 784 459
+918 /content/yolo_files/darknet/data/labels/sideview_img0551.png 800 600 0 364 332 549 456 0 1 365 73 441
+922 /content/yolo_files/darknet/data/labels/sideview_img0035.png 800 600 0 551 318 711 503 0 712 327 798 471
+930 /content/yolo_files/darknet/data/labels/sideview_img0619.png 800 600 0 452 357 786 554 0 357 228 494 431 0 1 360 84 428
+939 /content/yolo_files/darknet/data/labels/sideview_img0368.png 800 600 0 1 357 79 413
+944 /content/yolo_files/darknet/data/labels/sideview_img0432.png 800 600 0 1 361 75 433 0 120 337 178 388
+951 /content/yolo_files/darknet/data/labels/sideview_img0634.png 800 600 0 1 358 78 454 0 349 208 487 433 0 537 330 794 560
+952 /content/yolo_files/darknet/data/labels/sideview_img0556.png 800 600 0 331 337 528 439 0 1 363 78 432
+956 /content/yolo_files/darknet/data/labels/sideview_img0768.png 800 600 0 1 364 78 454 0 359 107 465 300 0 692 318 800 443
+991 /content/yolo_files/darknet/data/labels/sideview_img0094.png 800 600 0 21 316 267 574 0 226 327 590 566
+993 /content/yolo_files/darknet/data/labels/sideview_img0645.png 800 600 0 1 356 76 435 0 349 210 482 434 0 524 334 786 568
+1033 /content/yolo_files/darknet/data/labels/sideview_img0848.png 800 600 0 1 368 76 453 0 353 64 470 253 0 688 317 790 453
+1058 /content/yolo_files/darknet/data/labels/sideview_img0642.png 800 600 0 1 357 78 437 0 347 213 479 440 0 521 327 791 579
+1059 /content/yolo_files/darknet/data/labels/sideview_img0681.png 800 600 0 1 360 74 450 0 364 212 486 429 0 500 354 799 584
+1060 /content/yolo_files/darknet/data/labels/sideview_img0873.png 800 600 0 1 359 81 459 0 346 63 472 255 0 687 311 798 450
+1066 /content/yolo_files/darknet/data/labels/sideview_img0330.png 800 600 0 1 359 84 420 0 128 0 435 263
+1082 /content/yolo_files/darknet/data/labels/sideview_img0866.png 800 600 0 1 359 79 453 0 352 63 471 254 0 684 313 797 448
+1091 /content/yolo_files/darknet/data/labels/sideview_img0314.png 800 600 0 121 0 369 308 0 1 354 92 447
+1118 /content/yolo_files/darknet/data/labels/sideview_img0538.png 800 600 0 1 360 81 437 0 100 324 176 405 0 455 339 635 477
+1125 /content/yolo_files/darknet/data/labels/sideview_img0689.png 800 600 0 1 356 84 453 0 368 209 481 423 0 507 368 800 591
+1129 /content/yolo_files/darknet/data/labels/sideview_img0110.png 800 600 0 1 321 176 477
+1134 /content/yolo_files/darknet/data/labels/sideview_img0267.png 800 600 0 1 357 97 449 0 609 330 800 596
+1136 /content/yolo_files/darknet/data/labels/sideview_img0702.png 800 600 0 527 350 800 567 0 365 213 478 437 0 1 361 78 451
+1142 /content/yolo_files/darknet/data/labels/sideview_img0065.png 800 600 0 604 292 800 526
+1180 /content/yolo_files/darknet/data/labels/sideview_img0571.png 800 600 0 1 363 79 431 0 326 317 506 434
+1194 /content/yolo_files/darknet/data/labels/sideview_img0374.png 800 600 0 1 360 79 416
