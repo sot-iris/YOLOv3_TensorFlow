@@ -66,7 +66,7 @@ def process_box(boxes, labels, img_size, class_num, anchors):
     # (width, height)
     box_sizes = boxes[:, 2:4] - boxes[:, 0:2]
 
-    # [13, 13, 3, 5+num_class+1] `5` means coords and labels. `1` means mix up weight. 
+    # [13, 13, 3, 5+num_class+1] `5` means coords and labels. `1` means mix up weight.
     y_true_13 = np.zeros((img_size[1] // 32, img_size[0] // 32, 3, 6 + class_num), np.float32)
     y_true_26 = np.zeros((img_size[1] // 16, img_size[0] // 16, 3, 6 + class_num), np.float32)
     y_true_52 = np.zeros((img_size[1] // 8, img_size[0] // 8, 3, 6 + class_num), np.float32)
@@ -104,7 +104,7 @@ def process_box(boxes, labels, img_size, class_num, anchors):
         y = int(np.floor(box_centers[i, 1] / ratio))
         k = anchors_mask[feature_map_group].index(idx)
         c = labels[i]
-        # print(feature_map_group, '|', y,x,k,c)
+        print(feature_map_group, '|', y,x,k,c)
 
         y_true[feature_map_group][y, x, k, :2] = box_centers[i]
         y_true[feature_map_group][y, x, k, 2:4] = box_sizes[i]
