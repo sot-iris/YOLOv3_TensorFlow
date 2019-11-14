@@ -19,7 +19,7 @@ class_name_path = './data/my_data/data.names'  # The path of the class names.
 ### Training releated numbers
 batch_size = 6
 img_size = [416, 416]  # Images will be resized to `img_size` and fed to the network, size format: [width, height]
-letterbox_resize = False  # Whether to use the letterbox resize, i.e., keep the original aspect ratio in the resized image.
+letterbox_resize = True  # Whether to use the letterbox resize, i.e., keep the original aspect ratio in the resized image.
 total_epoches = 100
 train_evaluation_step = 100  # Evaluate on the training batch after some steps.
 val_evaluation_epoch = 2  # Evaluate on the whole validation dataset after some epochs. Set to None to evaluate every epoch.

@@ -105,7 +105,7 @@ def process_box(boxes, labels, img_size, class_num, anchors):
         k = anchors_mask[feature_map_group].index(idx)
         c = labels[i]
 
-        print(feature_map_group, '|', y,x,k,c)
+        #print(feature_map_group, '|', y,x,k,c)
 
         y_true[feature_map_group][y, x, k, :2] = box_centers[i]
         y_true[feature_map_group][y, x, k, 2:4] = box_sizes[i]
@@ -113,7 +113,7 @@ def process_box(boxes, labels, img_size, class_num, anchors):
         y_true[feature_map_group][y, x, k, 5 + c] = 1.
         y_true[feature_map_group][y, x, k, -1] = boxes[i, -1]
 
-
+        #print(y_true)
 
 
     return y_true_13, y_true_26, y_true_52
