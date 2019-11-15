@@ -91,7 +91,7 @@ with tf.Session() as sess:
             plot_one_box(img_ori, [x0, y0, x1, y1], label=args.classes[labels_[i]] + ', {:.2f}%'.format(scores_[i] * 100), color=color_table[labels_[i]])
         cv2.putText(img_ori, '{:.2f}ms'.format((end_time - start_time) * 1000), (40, 40), 0,
                     fontScale=1, color=(0, 255, 0), thickness=2)
-        cv2.imshow('image', img_ori)
+        #cv2.imshow('image', img_ori)
         if args.save_video:
             videoWriter.write(img_ori)
         if cv2.waitKey(1) & 0xFF == ord('q'):

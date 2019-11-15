@@ -28,7 +28,7 @@ parser.add_argument("--restore_path", type=str, default="./data/darknet_weights/
 parser.add_argument("--anchor_path", type=str, default="./data/yolo_anchors.txt",
                     help="The path of the anchor txt file.")
 
-parser.add_argument("--class_name_path", type=str, default="./data/coco.names",
+parser.add_argument("--class_name_path", type=str, default="./data/data.names",
                     help="The path of the class names.")
 
 # some numbers
