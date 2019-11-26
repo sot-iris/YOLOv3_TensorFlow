@@ -69,17 +69,20 @@ def split_data_set(image_dir):
     test_array = random.sample(range(data_size), k=data_test_size)
 
     for f in os.listdir(image_dir):
-        if(f.split(".")[1] == "png"):
-            #h, w, chans = cv2.imread(image_dir+'/'+f).shape
-            h, w = 600, 800 #if all the image sizes are the same...
-            if ind in test_array:
-                data = ("{} {}/{} {} {} {}".format(ind, image_dir, f, w, h ,(get_info_from_txt_file(image_dir+'/'+f.split(".")[0], w, h))).rstrip())
-                f_val.write(data+'\n')
-            else:
-                data = ("{} {}/{} {} {} {}".format(ind, image_dir, f, w, h ,(get_info_from_txt_file(image_dir+'/'+f.split(".")[0], w, h))).rstrip())
-                f_train.write(data+'\n')
-            ind += 1
-            print(data)
+        try:
+            if(f.split(".")[1] == "png"):
+                #h, w, chans = cv2.imread(image_dir+'/'+f).shape
+                h, w = 600, 800 #if all the image sizes are the same...
+                if ind in test_array:
+                    data = ("{} {}/{} {} {} {}".format(ind, image_dir, f, w, h ,(get_info_from_txt_file(image_dir+'/'+f.split(".")[0], w, h))).rstrip())
+                    f_val.write(data+'\n')
+                else:
+                    data = ("{} {}/{} {} {} {}".format(ind, image_dir, f, w, h ,(get_info_from_txt_file(image_dir+'/'+f.split(".")[0], w, h))).rstrip())
+                    f_train.write(data+'\n')
+                ind += 1
+                print(data)
+        except:
+            print(f)
 
 split_data_set(args.directory)
 print("done")
