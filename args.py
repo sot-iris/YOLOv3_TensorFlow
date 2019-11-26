@@ -7,11 +7,11 @@ from utils.misc_utils import parse_anchors, read_class_names
 import math
 
 ### Some paths
-train_file = './data/my_data/train.txt'  # The path of the training txt file.
-val_file = './data/my_data/val.txt'  # The path of the validation txt file.
+train_file = 'Splits/train.txt'  # The path of the training txt file.
+val_file = 'Splits/val.txt'  # The path of the validation txt file.
 restore_path = './data/darknet_weights/yolov3.ckpt'  # The path of the weights to restore.
-save_dir = '/content/drive/Shared drives/RD Deep Learning/YOLO/models/'  # The directory of the weights to save.
-log_dir = '/content/drive/Shared drives/RD Deep Learning/YOLO/logs/'  # The directory to store the tensorboard log files.
+save_dir = 'models/'  # The directory of the weights to save.
+log_dir = 'logs/'  # The directory to store the tensorboard log files.
 progress_log_path = './data/progress.log'  # The path to record the training progress.
 anchor_path = './data/yolo_anchors.txt'  # The path of the anchor txt file.
 class_name_path = './data/my_data/data.names'  # The path of the class names.
