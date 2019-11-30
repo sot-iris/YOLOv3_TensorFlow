@@ -100,4 +100,3 @@ with tf.Session() as sess:
     vid.release()
     if args.save_video:
         videoWriter.release()
-#python YOLOv3_TensorFlow/video_test.py "YOLOv3_TensorFlow/Dee Gee - 7a7b3dbe47a44c68894517c2680e088e-02ddfa38ead5-15fps-27q-60s-800x600-21112019-002241.113364.mp4" --restore_path "model-epoch_20_step_6362_loss_0.2445_lr_0.0001.data-00000-of-00001"
