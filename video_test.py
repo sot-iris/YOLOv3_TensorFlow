@@ -18,15 +18,15 @@ from model import yolov3
 parser = argparse.ArgumentParser(description="YOLO-V3 video test procedure.")
 parser.add_argument("input_video", type=str,
                     help="The path of the input video.")
-parser.add_argument("--anchor_path", type=str, default="./data/yolo_anchors.txt",
+parser.add_argument("--anchor_path", type=str, default="/YOLOv3_TensorFlow/data/yolo_anchors.txt",
                     help="The path of the anchor txt file.")
 parser.add_argument("--new_size", nargs='*', type=int, default=[416, 416],
                     help="Resize the input image with `new_size`, size format: [width, height]")
 parser.add_argument("--letterbox_resize", type=lambda x: (str(x).lower() == 'true'), default=True,
                     help="Whether to use the letterbox resize.")
-parser.add_argument("--class_name_path", type=str, default="./data/my_data/data.names",
+parser.add_argument("--class_name_path", type=str, default="/YOLOv3_TensorFlow/my_data/data.names",
                     help="The path of the class names.")
-parser.add_argument("--restore_path", type=str, default="modelsmodel-epoch_130_step_23710_loss_0.0734_lr_1e-05.data-00000-of-00001",
+parser.add_argument("--restore_path", type=str, default= "model-epoch_130_step_23710_loss_0.0734_lr_1e-05.data-00000-of-00001",
                     help="The path of the weights to restore.")
 parser.add_argument("--save_video", type=lambda x: (str(x).lower() == 'true'), default=False,
                     help="Whether to save the video detection results.")
@@ -100,3 +100,4 @@ with tf.Session() as sess:
     vid.release()
     if args.save_video:
         videoWriter.release()
+#python YOLOv3_TensorFlow/video_test.py "YOLOv3_TensorFlow/Dee Gee - 7a7b3dbe47a44c68894517c2680e088e-02ddfa38ead5-15fps-27q-60s-800x600-21112019-002241.113364.mp4" --restore_path "model-epoch_20_step_6362_loss_0.2445_lr_0.0001.data-00000-of-00001"
