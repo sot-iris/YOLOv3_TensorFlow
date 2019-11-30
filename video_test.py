@@ -28,7 +28,7 @@ parser.add_argument("--class_name_path", type=str, default="/home/ubuntu/YOLOv3_
                     help="The path of the class names.")
 parser.add_argument("--restore_path", type=str, default= "model-epoch_130_step_23710_loss_0.0734_lr_1e-05.data-00000-of-00001",
                     help="The path of the weights to restore.")
-parser.add_argument("--save_video", type=lambda x: (str(x).lower() == 'true'), default=False,
+parser.add_argument("--save_video", type=lambda x: (str(x).lower() == 'true'), default=True,
                     help="Whether to save the video detection results.")
 args = parser.parse_args()
 
@@ -57,7 +57,7 @@ with tf.Session() as sess:
 
     pred_scores = pred_confs * pred_probs
 
-    boxes, scores, labels = gpu_nms(pred_boxes, pred_scores, args.num_class, max_boxes=200, score_thresh=0.3, nms_thresh=0.7)
+    boxes, scores, labels = gpu_nms(pred_boxes, pred_scores, args.num_class, max_boxes=200, score_thresh=0.3, nms_thresh=0.4)
 
     saver = tf.train.Saver()
     saver.restore(sess, args.restore_path)
