@@ -18,13 +18,13 @@ from model import yolov3
 parser = argparse.ArgumentParser(description="YOLO-V3 video test procedure.")
 parser.add_argument("input_video", type=str,
                     help="The path of the input video.")
-parser.add_argument("--anchor_path", type=str, default="/YOLOv3_TensorFlow/data/yolo_anchors.txt",
+parser.add_argument("--anchor_path", type=str, default="/home/ubuntu/YOLOv3_TensorFlow/data/yolo_anchors.txt",
                     help="The path of the anchor txt file.")
 parser.add_argument("--new_size", nargs='*', type=int, default=[416, 416],
                     help="Resize the input image with `new_size`, size format: [width, height]")
 parser.add_argument("--letterbox_resize", type=lambda x: (str(x).lower() == 'true'), default=True,
                     help="Whether to use the letterbox resize.")
-parser.add_argument("--class_name_path", type=str, default="/YOLOv3_TensorFlow/my_data/data.names",
+parser.add_argument("--class_name_path", type=str, default="/home/ubuntu/YOLOv3_TensorFlow/my_data/data.names",
                     help="The path of the class names.")
 parser.add_argument("--restore_path", type=str, default= "model-epoch_130_step_23710_loss_0.0734_lr_1e-05.data-00000-of-00001",
                     help="The path of the weights to restore.")
