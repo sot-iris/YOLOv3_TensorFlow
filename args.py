@@ -7,14 +7,14 @@ from utils.misc_utils import parse_anchors, read_class_names
 import math
 
 ### Some paths
-train_file = 'Splits/train.txt'  # The path of the training txt file.
-val_file = 'Splits/val.txt'  # The path of the validation txt file.
-restore_path = 'YOLOv3_TensorFlow/data/darknet_weights/yolov3.ckpt'  # The path of the weights to restore.
-save_dir = 'models/'  # The directory of the weights to save.
-log_dir = 'logs/'  # The directory to store the tensorboard log files.
+train_file = '/content/YOLOv3_TensorFlow/data/my_data/train.txt'  # The path of the training txt file.
+val_file = '/content/YOLOv3_TensorFlow/data/my_data/val.txt'  # The path of the validation txt file.
+restore_path = '/content/YOLOv3_TensorFlow/data/darknet_weights/yolov3-tiny.ckpt'  # The path of the weights to restore.
+save_dir = '/content/YOLOv3_TensorFlow/models/'  # The directory of the weights to save.
+log_dir = '/content/YOLOv3_TensorFlow/logs/'  # The directory to store the tensorboard log files.
 progress_log_path = 'progress.log'  # The path to record the training progress.
-anchor_path = 'YOLOv3_TensorFlow/data/yolo_anchors.txt'  # The path of the anchor txt file.
-class_name_path = 'YOLOv3_TensorFlow/data/my_data/data.names'  # The path of the class names.
+anchor_path = '/content/YOLOv3_TensorFlow/data/yolo_anchors.txt'  # The path of the anchor txt file.
+class_name_path = '/content/YOLOv3_TensorFlow/data/my_data/data.names'  # The path of the class names.
 
 ### Training releated numbers
 batch_size = 6
